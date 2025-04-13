@@ -3,7 +3,7 @@
 .holder{
 	width: 200px;
 	display: grid;
-	grid-template-columns: auto auto;
+	grid-template-columns: 100px 100px;
 	gap: 10px;
 	background-color: blue;
 	padding: 20px;
